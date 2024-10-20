@@ -1,0 +1,19 @@
+{
+  "name": "api-testing-practikum",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "express": "^4.21.1",
+    "mocha": "^10.7.3",
+    "supertest": "^7.0.0"
+  }
+}
