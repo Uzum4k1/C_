@@ -1,0 +1,15 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test/ui.test.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0",
+    "chai": "^4.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
